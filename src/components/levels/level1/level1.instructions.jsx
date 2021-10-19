@@ -6,7 +6,7 @@ export const instructions = [
   <p>Each burger should contain ingredients (div tags with correct class names) which you can find in the bottom left corner of the kitchen.</p>,
   <p>You should put ingredients inside div tags with 'burger' class name for each person accordingly.</p>,
   <p>The burger for Mr Johnson should contain: bottom bun, onion, beef, cheese, pickles, egg and top bun.</p>,
-  <p>The burger for Mrs Johnson should consist of bottom-bun, tomato, beef, cheese, pepper, lettuce and top bun.</p>,
+  <p>The burger for Mrs Johnson should consist of bottom bun, tomato, beef, cheese, pepper, lettuce and top bun.</p>,
   <p>And finally, the burger for little Peter should contain: bottom bun, tomato, bacon, cheese, egg and, of course, top bun.</p>
 ]
 

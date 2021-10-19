@@ -9,7 +9,7 @@ export const instructions = [
   <p>Step 1: create references for all fields (lines 13-14).</p>,
   <p>Step 2: add ref attributes for all input tags (lines 27-58).</p>,
   <p>Step 3: finish logic inside applyFormData method (lines 21-25) using functions from lines 4-10.</p>,
-  <p>Step 4: add prefix '+375' for phone number before passing it to setPhone function (lines 23-28).</p>,
+  <p>Step 4: add prefix '+375' for phone number before passing it to sendPhone function (lines 23-28).</p>,
   <p>After finishing these steps, fill the form with correct data and click on apply button.</p>
 ]
 
